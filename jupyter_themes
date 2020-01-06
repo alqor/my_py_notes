@@ -1,0 +1,6 @@
+pip install jupyterthemes
+
+# to list all possible themes
+jt -l
+# to set the dark one
+jt -t onedork
