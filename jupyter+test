@@ -1,0 +1,7 @@
+* To run Jupyter:
+
+py -m notebook
+
+* To run pytest:
+
+py -m pytest test_file.py
