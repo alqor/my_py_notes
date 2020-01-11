@@ -1,6 +1,8 @@
 * To run Jupyter:
 
 py -m notebook
+# or
+jupyter notebook
 
 * To run pytest:
 
